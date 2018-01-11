@@ -1,3 +1,4 @@
+rmdir /s /q server
 mkdir server
 cd server
 git init --bare
