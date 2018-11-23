@@ -1,4 +1,5 @@
-rmdir /s /q server
+rm -r -f server
+rm -r -f temp
 mkdir server
 cd server
 git init --bare
@@ -14,4 +15,4 @@ git branch develop
 git push --all origin
 cd ..
 cd ..
-rmdir /s /q temp
+rm -r -f temp
