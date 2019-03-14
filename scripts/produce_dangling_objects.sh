@@ -12,4 +12,3 @@ git add .
 echo Hello > content.txt
 git add .
 git commit -m "initialize project"
-
