@@ -1,3 +1,3 @@
-rem git show pretty branch tree
+git show pretty branch tree
 git log --all --decorate --oneline --graph
-git log --graph --abbrev-commit --decorate -all
+git log --graph --abbrev-commit --decorate --all
