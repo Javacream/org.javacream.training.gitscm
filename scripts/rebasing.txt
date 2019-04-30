@@ -1,0 +1,14 @@
+git checkout feature2
+git merge feature2_alternative1
+git checkout feature2_alternative2
+git rebase feature2
+git add .
+git rebase --continue
+git checkout feature2
+git merge feature2_alternative2
+git rebase feature1
+git checkout master
+git merge --no-ff feature2
+
+
+
