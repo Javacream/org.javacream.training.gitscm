@@ -1,4 +1,4 @@
-rm -r training_branches
+rm -rf training_branches
 mkdir training_branches
 cd training_branches
 git init
