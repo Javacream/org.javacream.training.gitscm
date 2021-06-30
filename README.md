@@ -6,7 +6,7 @@
 * Referent: Rainer Sawitzki, eMail: training@rainer-sawitzki.de
 
 * Seminarzeiten
-  * 12 Unterrichtseinheiten mit jeweils 90 Minuten
+  * 8 Unterrichtseinheiten mit jeweils 90 Minuten
   * 8:30 - 15:45
     * Mittagspause 45’ (11:45-12:30)
     * Kaffeepausen 10:00 - 10:15 und 14:00 - 14:15
