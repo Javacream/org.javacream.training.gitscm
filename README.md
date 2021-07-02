@@ -18,4 +18,4 @@
     * Branch duecker_5.7.2021
 
 * Digitales Flipchart
-  *https://docs.google.com/presentation/d/1KIA7-14R-qfUBpjddATkTRDerLiVRYIZe-mPOjarFNY/edit?usp=sharing
+* https://docs.google.com/presentation/d/1KIA7-14R-qfUBpjddATkTRDerLiVRYIZe-mPOjarFNY/edit?usp=sharing
