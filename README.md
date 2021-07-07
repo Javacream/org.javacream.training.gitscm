@@ -15,7 +15,7 @@
 
 * Beispiele
   * https://github.com/Javacream/org.javacream.training.gitscm
-    * Branch duecker_5.7.2021
+    * Branch finanzdirektion_8.7.2021
 
 * Digitales Flipchart
-  *https://docs.google.com/presentation/d/1KIA7-14R-qfUBpjddATkTRDerLiVRYIZe-mPOjarFNY/edit?usp=sharing
+  * https://docs.google.com/presentation/d/1Tx-qBSDSmIDLLMfJJftuaX53oFujYtyCZbgj1aRnx6Y/edit?usp=sharing
