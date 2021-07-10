@@ -15,7 +15,7 @@
 
 * Beispiele
   * https://github.com/Javacream/org.javacream.training.gitscm
-    * Branch itzbund_3.5.2021
+    * Branch itzbund_12.7.2021
 
 * Digitales Flipchart
-  * https://docs.google.com/presentation/d/1HxBUAgYpShfOV3xXIM4tdBNPqUJg_Wj1FcA8XbOHSNw/edit?usp=sharing
+  * https://docs.google.com/presentation/d/14mdAjoECWQw5eLA4qXYpPrYcud2b-gacrku1nQ2_vBo/edit?usp=sharing
