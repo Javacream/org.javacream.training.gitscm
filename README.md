@@ -17,4 +17,4 @@
   * https://github.com/Javacream/org.javacream.training.gitscm
 
 * Digitales Flipchart
-  * 
+  * https://docs.google.com/presentation/d/1iWiLNnkLmH8UEUKEGfs8cPZaypO-HzBjeZsDj18CJhk/edit?usp=sharing
