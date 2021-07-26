@@ -1,0 +1,11 @@
+git checkout feature2
+git merge feature2_part1
+	Fast Forward
+git merge feature2_part2
+	Recursive mit Konflikt
+git merge feature1
+	Recursive Auto Konflikt-Resolution
+git checkout master
+git merge feature2
+	Fast Forward
+
