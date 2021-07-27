@@ -22,7 +22,7 @@ git commit -m working on planets
 git tag finish_planet 
 git pl  
 git rebase --interactive initial
-git checkout master 
+git checkout main 
 git merge feature/planet 
 git branch -d feature/planet
 git checkout -b feature/star
@@ -36,12 +36,12 @@ echo Beteigeuze > star.txt
 git add . 
 git commit -m working on stars
 git tag finish_star 
-git rebase --interactive master
-git checkout master 
+git rebase --interactive main
+git checkout main
 git merge feature/star 
 git branch -d feature/star
 git tag v1.0 
 git checkout 4be21d9 
 git tag v1.0-Milestone-1 
-git checkout master 
+git checkout main 
 
