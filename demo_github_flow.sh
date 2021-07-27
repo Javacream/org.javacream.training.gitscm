@@ -1,6 +1,6 @@
 mkdir demo_github_flow  
 cd demo_github_flow  
-git init  
+git init --initial-branch main 
 git tag initial 
 echo GitHubFlow > Readme.txt
 git add . 
