@@ -13,8 +13,4 @@
   * 
 ## Durchführung des Seminars
 
-* Beispiele
-
-  * https://github.com/Javacream/org.javacream.training.gitscm
-
-* [Digitales Flipchart](https://docs.google.com/presentation/d/1OS12hFIzYQl0niVZrbpkNnyC2YQlTf_OCsCG1d7yh3Q/edit?usp=sharing)
+* [Digitales Flipchart](https://docs.google.com/presentation/d/12a4cLI6uRfTXFFgdnYZOHQTN9O_3kdbg5_bnj4kLRJo/edit?usp=sharing)
