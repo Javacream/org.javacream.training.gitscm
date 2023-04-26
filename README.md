@@ -11,10 +11,4 @@
     * Mittagspause 45’ (12:15-13:00)
     * Kaffeepausen 10:30 - 10:45 und 14:30 - 14:45
   * 
-## Durchführung des Seminars
-
-* Beispiele
-
-  * https://github.com/Javacream/org.javacream.training.gitscm
-
-* [Digitales Flipchart](https://docs.google.com/presentation/d/1OS12hFIzYQl0niVZrbpkNnyC2YQlTf_OCsCG1d7yh3Q/edit?usp=sharing)
+* [Digitales Flipchart](https://docs.google.com/presentation/d/1Y9HbmJtbraNHKrr3KyYIH3GMkQEgmgNdr1Dv8XOAhwQ/edit?usp=sharing)
