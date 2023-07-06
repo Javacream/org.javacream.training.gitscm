@@ -1,7 +1,7 @@
 rm -rf training_branches
 mkdir training_branches
 cd training_branches
-git init --initial-branch=main
+git init
 echo Branches > README.txt
 git add .
 git commit -m "setup project"
@@ -31,4 +31,4 @@ git commit -m "add Uranus"
 echo Jupiter > planet.txt
 git add .
 git commit -m "add Jupiter"
-git checkout main
+git checkout master
