@@ -32,4 +32,4 @@ git commit -m "add Uranus"
 echo Jupiter > planet.txt
 git add .
 git commit -m "add Jupiter"
-git checkout master
+git checkout main
