@@ -11,4 +11,4 @@
     * Mittagspause 45’ (12:15-13:00)
     * Kaffeepausen 10:30 - 10:45 und 14:30 - 14:45
 
-* [Digitales Flipchart](https://docs.google.com/presentation/d/1a6xSdhXjwSKaamHPgaE1UMEUMX5jNXof3qTo8Iev7i0/edit?usp=sharing)
+* [Digitales Flipchart](https://docs.google.com/presentation/d/1rDBy1ulfUZh6tByV7uLUTSWcRf5Ojvj2e-uvHjplCB8/edit?usp=sharing)
