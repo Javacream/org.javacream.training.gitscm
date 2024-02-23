@@ -12,3 +12,6 @@
     * Kaffeepausen 10:30 - 10:45 und 14:30 - 14:45
 
 * [Digitales Flipchart](https://docs.google.com/presentation/d/1rDBy1ulfUZh6tByV7uLUTSWcRf5Ojvj2e-uvHjplCB8/edit?usp=sharing)
+
+* rainersawitzki
+* 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
