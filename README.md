@@ -13,5 +13,7 @@
 
 * [Digitales Flipchart](https://docs.google.com/presentation/d/1rDBy1ulfUZh6tByV7uLUTSWcRf5Ojvj2e-uvHjplCB8/edit?usp=sharing)
 
+* [Aufzeichnung](https://my.hidrive.com/share/sazt-l2oa6)
+
 * rainersawitzki
 * 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
