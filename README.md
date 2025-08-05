@@ -15,3 +15,5 @@
     * 15:45 - 16:15 "Cool Down", Zusammenfassung, Offene Übungen fertigstellen, Fragen, Review Flipchart, ...
 
 * [Digitales Flipchart](https://docs.google.com/presentation/d/1h83K8JdQivXQVKm8twGGBPE9wHgPEodZQyArtjx_95s/edit?usp=sharing)
+
+* [Bildschirmfreigabe](https://teams.microsoft.com/meet/3252143513035?p=FtbaiX79thWukiPp1Z)
