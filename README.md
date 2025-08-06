@@ -16,4 +16,4 @@
 
 * [Digitales Flipchart](https://docs.google.com/presentation/d/1h83K8JdQivXQVKm8twGGBPE9wHgPEodZQyArtjx_95s/edit?usp=sharing)
 
-* [Bildschirmfreigabe](https://teams.microsoft.com/meet/3252143513035?p=FtbaiX79thWukiPp1Z)
+* [Bildschirmfreigabe](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjNmM2ZiMzAtMzBlZS00YjVmLWJiNGQtM2Q1ZWI2NWVhY2Nj%40thread.v2/0?context=%7b%22Tid%22%3a%22b330d2c3-d985-4943-b28b-4d2df8f80a7e%22%2c%22Oid%22%3a%22ae51a20e-477d-4b5a-a4d4-22246ec65647%22%7d)
