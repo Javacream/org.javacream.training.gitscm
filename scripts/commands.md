@@ -9,7 +9,7 @@
 
 ## Dangling Objects
 ### unreachable objects
-git fsck --unreachable --no-reflogs
+git fsck --unreachable --no-reflog
 
 ### set expiration = now
 git reflog expire --expire-unreachable=now --all
